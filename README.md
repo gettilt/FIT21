@@ -74,7 +74,6 @@ with open('theme.csv') as file:
 | BTBT | Bit Digital is a Bitcoin mining company that has rapidly expanded its operations, positioning itself to benefit from increased cryptocurrency adoption. | claude |
 | HIVE | HIVE Blockchain Technologies operates cryptocurrency mining facilities in Canada, Sweden, and Iceland, providing exposure to the mining segment of the industry. | claude |
 | ICE | Intercontinental Exchange, the parent company of the New York Stock Exchange, has launched a digital asset platform called Bakkt, which facilitates cryptocurrency trading and custody. | claude |
-| NDAQ | Nasdaq has shown interest in the cryptocurrency space, providing market surveillance technology to crypto exchanges and considering launching its own digital asset exchange. | claude |
 | HOOD |  | manual |
 | SCHW |  | manual |
 | IBIT |  | expert |
