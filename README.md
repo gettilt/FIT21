@@ -77,6 +77,7 @@ with open('theme.csv') as file:
 | NDAQ | Nasdaq has shown interest in the cryptocurrency space, providing market surveillance technology to crypto exchanges and considering launching its own digital asset exchange. | claude |
 | HOOD |  | manual |
 | SCHW |  | manual |
+| IBIT |  | expert |
 <!--[[[end]]]-->
 
 ## License
