@@ -63,7 +63,11 @@
                 "date": "2024-05-20T16:56:41Z"
             }
         ],
-        "experts": []
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "More ETFs means more revenue potential for the leading custodian of Bitcoin ETFs"
+            }]
     },
     "MA": {
         "chat_gpt": "Mastercard is also integrating cryptocurrency solutions, making it a beneficiary of the fintech innovation wave.",
