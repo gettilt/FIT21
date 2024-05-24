@@ -431,7 +431,7 @@
         "tweets": [],
         "experts": [
             {
-                "user": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
                 "comment": "Direct exposure to BTC through the largest BTC ETF"
             }
         ]
